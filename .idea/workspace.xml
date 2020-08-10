@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc409857-46af-40ef-a9f8-14f14a17124c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ftfUdzuYXXefUkYEjiz2QFTmOY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ES6 Tutorials.js" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ES6 Tutorials.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="ES6 Tutorials.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ES6 Tutorials.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc409857-46af-40ef-a9f8-14f14a17124c" name="Default Changelist" comment="" />
+      <created>1597042326766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597042326766</updated>
+      <workItem from="1597042327821" duration="10213000" />
+      <workItem from="1597056942852" duration="1596000" />
+      <workItem from="1597058912788" duration="25000" />
+      <workItem from="1597058938499" duration="1041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="907" y="405" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597058944327">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="907" y="405" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597058944327" />
+    <state x="1373" y="100" width="1094" height="1207" key="DiffContextDialog" timestamp="1597048106227">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1373" y="100" width="1094" height="1207" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597048106227" />
+    <state x="1700" y="455" key="FileChooserDialogImpl" timestamp="1597059019686">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1700" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1597059019686" />
+    <state x="1100" y="603" key="Github.CreateGistDialog" timestamp="1597059450966">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1100" y="603" key="Github.CreateGistDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597059450966" />
+    <state x="1143" y="603" key="Github.ShareDialog" timestamp="1597059471581">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1143" y="603" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597059471581" />
+    <state x="1078" y="404" key="Github.UntrackedFilesDialog" timestamp="1597059487306">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1078" y="404" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597059487306" />
+    <state width="2539" height="393" key="GridCell.Tab.0.bottom" timestamp="1597059255352">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="393" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597059255352" />
+    <state width="2539" height="393" key="GridCell.Tab.0.center" timestamp="1597059255352">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="393" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597059255352" />
+    <state width="2539" height="393" key="GridCell.Tab.0.left" timestamp="1597059255352">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="393" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597059255352" />
+    <state width="2539" height="393" key="GridCell.Tab.0.right" timestamp="1597059255352">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="393" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597059255352" />
+    <state width="1256" height="484" key="GridCell.Tab.1.bottom" timestamp="1597056930824">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930824" />
+    <state width="1256" height="484" key="GridCell.Tab.1.center" timestamp="1597056930824">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930824" />
+    <state width="1256" height="484" key="GridCell.Tab.1.left" timestamp="1597056930824">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930824" />
+    <state width="1256" height="484" key="GridCell.Tab.1.right" timestamp="1597056930824">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930824" />
+    <state width="1256" height="484" key="GridCell.Tab.2.bottom" timestamp="1597056930825">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930825" />
+    <state width="1256" height="484" key="GridCell.Tab.2.center" timestamp="1597056930825">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930825" />
+    <state width="1256" height="484" key="GridCell.Tab.2.left" timestamp="1597056930825">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930825" />
+    <state width="1256" height="484" key="GridCell.Tab.2.right" timestamp="1597056930825">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930825" />
+    <state width="1256" height="484" key="GridCell.Tab.3.bottom" timestamp="1597056930826">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930826" />
+    <state width="1256" height="484" key="GridCell.Tab.3.center" timestamp="1597056930826">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930826" />
+    <state width="1256" height="484" key="GridCell.Tab.3.left" timestamp="1597056930825">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930825" />
+    <state width="1256" height="484" key="GridCell.Tab.3.right" timestamp="1597056930826">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="484" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930826" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/webDevSimplified_ES6 Tutorials.js</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
