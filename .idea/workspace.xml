@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc409857-46af-40ef-a9f8-14f14a17124c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES6 Tutorials.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES6 Tutorials.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -28,9 +30,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ES6 Tutorials.js" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
@@ -54,18 +58,50 @@
       <workItem from="1597042327821" duration="10213000" />
       <workItem from="1597056942852" duration="1596000" />
       <workItem from="1597058912788" duration="25000" />
-      <workItem from="1597058938499" duration="1041000" />
+      <workItem from="1597058938499" duration="5094000" />
+      <workItem from="1597129191695" duration="7128000" />
     </task>
+    <task id="LOCAL-00001" summary="inital commit">
+      <created>1597060075712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597060075712</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inital commit :tada:">
+      <created>1597061457163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597061457163</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inital commit :tada:">
+      <created>1597064966147</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597064966147</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inital commit" />
+    <MESSAGE value="Inital commit :tada:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inital commit :tada:" />
   </component>
   <component name="WindowStateProjectService">
     <state x="907" y="405" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597058944327">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="907" y="405" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597058944327" />
+    <state x="574" y="265" key="CommitChangelistDialog2" timestamp="1597064965717">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="574" y="265" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1597064965717" />
     <state x="1373" y="100" width="1094" height="1207" key="DiffContextDialog" timestamp="1597048106227">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -86,22 +122,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1078" y="404" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597059487306" />
-    <state width="2539" height="393" key="GridCell.Tab.0.bottom" timestamp="1597059255352">
+    <state width="1256" height="384" key="GridCell.Tab.0.bottom" timestamp="1597138688823">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="393" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597059255352" />
-    <state width="2539" height="393" key="GridCell.Tab.0.center" timestamp="1597059255352">
+    <state width="1256" height="384" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597138688823" />
+    <state width="1256" height="384" key="GridCell.Tab.0.center" timestamp="1597138688823">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="393" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597059255352" />
-    <state width="2539" height="393" key="GridCell.Tab.0.left" timestamp="1597059255352">
+    <state width="1256" height="384" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597138688823" />
+    <state width="1256" height="384" key="GridCell.Tab.0.left" timestamp="1597138688823">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="393" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597059255352" />
-    <state width="2539" height="393" key="GridCell.Tab.0.right" timestamp="1597059255352">
+    <state width="1256" height="384" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597138688823" />
+    <state width="1256" height="384" key="GridCell.Tab.0.right" timestamp="1597138688823">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="393" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597059255352" />
+    <state width="1256" height="384" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597138688823" />
     <state width="1256" height="484" key="GridCell.Tab.1.bottom" timestamp="1597056930824">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -150,6 +186,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1256" height="484" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597056930826" />
+    <state x="872" y="429" key="Vcs.Push.Dialog.v2" timestamp="1597064969528">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="429" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1597064969528" />
+    <state x="1739" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597133952766">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1739" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1597133952766" />
+    <state x="167" y="217" width="1036" height="970" key="dock-window-1" timestamp="1597135254268">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="167" y="217" width="1036" height="970" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1597135254268" />
+    <state x="207" y="215" width="1036" height="970" key="dock-window-2" timestamp="1597135254269">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="207" y="215" width="1036" height="970" key="dock-window-2/0.0.2560.1400@0.0.2560.1400" timestamp="1597135254269" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
